@@ -125,12 +125,6 @@ npm install
 # 3. Start local development server (port 3000)
 npm run dev
 
-# 4. Compile and verify production build
-npm run build
-**` ``` `**
-
----
-
 💼 Global Employment & Enterprise Readiness
 Target Position: Principal / Distinguished Enterprise Systems Architect / VP of Architecture / Technical Fellow.
 Engagement Model: Full-Time Permanent Employee (正社員) or Corporate Fellow via Employer of Record (EOR: Deel, Remote.com, etc.) or Direct Corporate Entity.
