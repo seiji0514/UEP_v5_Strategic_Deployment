@@ -123,7 +123,6 @@ cd seiji-ogawa-architect-workspace
 npm install
 
 # 3. Start local development server (port 3000)
-npm run dev
 
 💼 Global Employment & Enterprise Readiness
 Target Position: Principal / Distinguished Enterprise Systems Architect / VP of Architecture / Technical Fellow.
