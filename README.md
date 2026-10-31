@@ -127,3 +127,18 @@ npm run dev
 
 # 4. Compile and verify production build
 npm run build
+
+---
+
+💼 Global Employment & Enterprise Readiness
+Target Position: Principal / Distinguished Enterprise Systems Architect / VP of Architecture / Technical Fellow.
+Engagement Model: Full-Time Permanent Employee (正社員) or Corporate Fellow via Employer of Record (EOR: Deel, Remote.com, etc.) or Direct Corporate Entity.
+Workstyle: 100% Remote Asynchronous from Sasebo, Nagasaki, Japan.
+Reasonable Accommodation (合理的配慮): Periodic SCS (Spinal Cord Stimulation) battery recharge during scheduled non-peak intervals (11:30–13:00 JST). Zero impact on delivery; covered by autonomous failover and ticket pipelines.
+Post-Joining 90-Day Contribution Blueprint: Structured onboarding roadmap designed to harmonize with existing teams, eliminate technical debt, and deliver measurable FinOps ROI from Day 1.
+📬 Direct Contact & Technical Due Diligence
+Technical leaders, recruiters, and search committees are welcome to reach out directly:
+Architect: Seiji Ogawa (小川 清志)
+Email: kaho052514@gmail.com
+Live Production Suite: https://seiji-ogawa-cyberdefense.netlify.app/
+Location: Sasebo, Nagasaki, Japan (100% Remote Asynchronous Relay)
