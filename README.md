@@ -114,7 +114,6 @@ All figures are cataloged and probe-verified through automated built-in registry
 
 ## 🚀 Local Development & Build Verification
 
-```bash
 # 1. Clone repository
 git clone https://github.com/<your-username>/seiji-ogawa-architect-workspace.git
 cd seiji-ogawa-architect-workspace
@@ -124,13 +123,13 @@ npm install
 
 # 3. Start local development server (port 3000)
 
-💼 Global Employment & Enterprise Readiness
+## 💼 Global Employment & Enterprise Readiness
 Target Position: Principal / Distinguished Enterprise Systems Architect / VP of Architecture / Technical Fellow.
 Engagement Model: Full-Time Permanent Employee (正社員) or Corporate Fellow via Employer of Record (EOR: Deel, Remote.com, etc.) or Direct Corporate Entity.
 Workstyle: 100% Remote Asynchronous from Sasebo, Nagasaki, Japan.
 Reasonable Accommodation (合理的配慮): Periodic SCS (Spinal Cord Stimulation) battery recharge during scheduled non-peak intervals (11:30–13:00 JST). Zero impact on delivery; covered by autonomous failover and ticket pipelines.
 Post-Joining 90-Day Contribution Blueprint: Structured onboarding roadmap designed to harmonize with existing teams, eliminate technical debt, and deliver measurable FinOps ROI from Day 1.
-📬 Direct Contact & Technical Due Diligence
+## 📬 Direct Contact & Technical Due Diligence
 Technical leaders, recruiters, and search committees are welcome to reach out directly:
 Architect: Seiji Ogawa (小川 清志)
 Email: kaho052514@gmail.com
